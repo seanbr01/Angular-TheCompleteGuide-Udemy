@@ -1,0 +1,12 @@
+.banner {
+    background-color: lightblue;
+    columns: white;
+    margin-top: 75px;
+    text-align: center;
+}
+
+#just-me {
+    height: 50px;
+    width: 50px;
+    
+}
